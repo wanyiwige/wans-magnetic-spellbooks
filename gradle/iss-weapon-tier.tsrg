@@ -1,0 +1,7 @@
+tsrg2 left right
+io/redspace/ironsspellbooks/item/weapons/IronsWeaponTier io/redspace/ironsspellbooks/item/weapons/IronsWeaponTier
+	getAttackDamageBonus ()F m_6631_
+	getSpeed ()F m_6624_
+io/redspace/ironsspellbooks/item/weapons/StaffTier io/redspace/ironsspellbooks/item/weapons/StaffTier
+	getAttackDamageBonus ()F m_6631_
+	getSpeed ()F m_6624_

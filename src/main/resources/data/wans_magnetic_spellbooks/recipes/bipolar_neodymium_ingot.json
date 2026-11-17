@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "alexscaves:azure_neodymium_ingot" },
+    { "item": "alexscaves:scarlet_neodymium_ingot" }
+  ],
+  "result": { "item": "wans_magnetic_spellbooks:bipolar_neodymium_ingot", "count": 1 }
+}

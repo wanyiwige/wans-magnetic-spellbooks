@@ -1,0 +1,4 @@
+{
+  "parent": "item/generated",
+  "textures": {"layer0": "wans_magnetic_spellbooks:item/magnetic_mage_helmet"}
+}

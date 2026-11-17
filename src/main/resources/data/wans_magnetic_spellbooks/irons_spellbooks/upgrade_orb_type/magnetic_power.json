@@ -1,0 +1,9 @@
+{
+  "amount": 0.05,
+  "attribute": "wans_magnetic_spellbooks:magnetic_spell_power",
+  "containerItem": {
+    "Count": 1,
+    "id": "wans_magnetic_spellbooks:magnetic_polarity_upgrade_orb"
+  },
+  "operation": "MULTIPLY_BASE"
+}

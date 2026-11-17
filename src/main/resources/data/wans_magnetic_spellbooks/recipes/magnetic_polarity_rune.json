@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "FFF",
+    "FRF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "tag": "wans_magnetic_spellbooks:magnetic_focus"
+    },
+    "R": {
+      "item": "irons_spellbooks:blank_rune"
+    }
+  },
+  "result": {
+    "item": "wans_magnetic_spellbooks:magnetic_polarity_rune",
+    "count": 1
+  }
+}

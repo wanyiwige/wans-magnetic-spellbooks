@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AB",
+    " CD",
+    "E  "
+  ],
+  "key": {
+    "A": { "item": "wans_magnetic_spellbooks:magnetic_polarity_rune" },
+    "B": { "item": "alexscaves:heart_of_iron" },
+    "C": { "item": "traveloptics:neodymium_infused_mechanized_catalyst" },
+    "D": { "item": "wans_magnetic_spellbooks:bipolar_neodymium_ingot" },
+    "E": { "item": "alexscaves:tesla_bulb" }
+  },
+  "result": { "item": "traveloptics:galenic_polarizer", "count": 1 },
+  "show_notification": true
+}

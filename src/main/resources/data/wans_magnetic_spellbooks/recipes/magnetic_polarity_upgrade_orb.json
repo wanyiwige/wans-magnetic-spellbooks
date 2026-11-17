@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RRR",
+    "ROR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "wans_magnetic_spellbooks:magnetic_polarity_rune"
+    },
+    "O": {
+      "item": "irons_spellbooks:upgrade_orb"
+    }
+  },
+  "result": {
+    "item": "wans_magnetic_spellbooks:magnetic_polarity_upgrade_orb",
+    "count": 1
+  }
+}
